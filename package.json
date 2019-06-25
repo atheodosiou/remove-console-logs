@@ -1,0 +1,19 @@
+{
+  "name": "remove-logs",
+  "version": "0.1.0",
+  "description": "Removing all console.log() calls from all files in the given directory!",
+  "main": "remove-logs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "node",
+    "console",
+    "log",
+    "remove",
+    "async"
+  ],
+  "author": "@atheodosiou (Anastasios Theodosiou)",
+  "license": "ISC"
+}
